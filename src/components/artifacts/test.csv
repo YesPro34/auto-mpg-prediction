@@ -1,0 +1,81 @@
+mpg,cylinders,displacement,horsepower,weight,acceleration,model year,origin,car name
+33.0,4,91.0,53,1795,17.4,76,3,honda civic
+28.0,4,120.0,79,2625,18.6,82,1,ford ranger
+19.0,6,232.0,100,2634,13.0,71,1,amc gremlin
+13.0,8,318.0,150,3940,13.2,76,1,plymouth volare premier v8
+14.0,8,318.0,150,4237,14.5,73,1,plymouth fury gran sedan
+27.0,4,97.0,88,2100,16.5,72,3,toyota corolla 1600 (sw)
+24.0,4,140.0,92,2865,16.4,82,1,ford fairmont futura
+13.0,8,440.0,215,4735,11.0,73,1,chrysler new yorker brougham
+17.0,8,260.0,110,4060,19.0,77,1,oldsmobile cutlass supreme
+21.0,6,200.0,?,2875,17.0,74,1,ford maverick
+15.0,8,390.0,190,3850,8.5,70,1,amc ambassador dpl
+38.0,4,91.0,67,1965,15.0,82,3,honda civic
+26.0,4,91.0,70,1955,20.5,71,1,plymouth cricket
+15.0,8,304.0,150,3892,12.5,72,1,amc matador (sw)
+25.0,4,140.0,75,2542,17.0,74,1,chevrolet vega
+12.0,8,383.0,180,4955,11.5,71,1,dodge monaco (sw)
+31.0,4,112.0,85,2575,16.2,82,1,pontiac j2000 se hatchback
+17.0,6,163.0,125,3140,13.6,78,2,volvo 264gl
+16.0,8,400.0,180,4220,11.1,77,1,pontiac grand prix lj
+31.0,4,91.0,68,1970,17.6,82,3,mazda glc custom
+22.0,4,121.0,76,2511,18.0,72,2,volkswagen 411 (sw)
+22.0,6,198.0,95,2833,15.5,70,1,plymouth duster
+22.0,6,232.0,112,2835,14.7,82,1,ford granada l
+33.5,4,98.0,83,2075,15.9,77,1,dodge colt m/m
+18.0,8,307.0,130,3504,12.0,70,1,chevrolet chevelle malibu
+44.0,4,97.0,52,2130,24.6,82,2,vw pickup
+26.0,4,98.0,90,2265,15.5,73,2,fiat 124 sport coupe
+24.5,4,151.0,88,2740,16.0,77,1,pontiac sunbird coupe
+18.1,6,258.0,120,3410,15.1,78,1,amc concord d/l
+12.0,8,400.0,167,4906,12.5,73,1,ford country
+27.0,4,140.0,86,2790,15.6,82,1,ford mustang gl
+36.0,4,105.0,74,1980,15.3,82,2,volkswagen rabbit l
+23.0,8,350.0,125,3900,17.4,79,1,cadillac eldorado
+24.0,4,113.0,95,2278,15.5,72,3,toyota corona hardtop
+37.2,4,86.0,65,2019,16.4,80,3,datsun 310
+16.0,8,400.0,230,4278,9.5,73,1,pontiac grand prix
+21.0,6,155.0,107,2472,14.0,73,1,mercury capri v6
+19.2,8,305.0,145,3425,13.2,78,1,chevrolet monte carlo landau
+16.0,8,318.0,150,4498,14.5,75,1,plymouth grand fury
+29.0,4,98.0,83,2219,16.5,74,2,audi fox
+26.8,6,173.0,115,2700,12.9,79,1,oldsmobile omega brougham
+27.0,4,97.0,60,1834,19.0,71,2,volkswagen model 111
+18.0,4,121.0,112,2933,14.5,72,2,volvo 145e (sw)
+10.0,8,360.0,215,4615,14.0,70,1,ford f250
+23.0,4,120.0,97,2506,14.5,72,3,toyouta corona mark ii (sw)
+36.0,4,120.0,88,2160,14.5,82,3,nissan stanza xe
+26.0,4,116.0,75,2246,14.0,74,2,fiat 124 tc
+25.0,4,121.0,115,2671,13.5,75,2,saab 99le
+25.0,4,104.0,95,2375,17.5,70,2,saab 99e
+25.0,4,90.0,71,2223,16.5,75,2,volkswagen dasher
+22.0,4,140.0,72,2408,19.0,71,1,chevrolet vega (sw)
+34.1,4,86.0,65,1975,15.2,79,3,maxda glc deluxe
+32.4,4,107.0,72,2290,17.0,80,3,honda accord
+13.0,8,400.0,190,4422,12.5,72,1,chrysler newport royal
+23.5,6,173.0,110,2725,12.6,81,1,chevrolet citation
+14.0,8,400.0,175,4464,11.5,71,1,pontiac catalina brougham
+18.5,8,360.0,150,3940,13.0,79,1,chrysler lebaron town @ country (sw)
+29.8,4,134.0,90,2711,15.5,80,3,toyota corona liftback
+28.0,4,140.0,90,2264,15.5,71,1,chevrolet vega 2300
+19.0,6,225.0,95,3264,16.0,75,1,plymouth valiant custom
+11.0,8,350.0,180,3664,11.0,73,1,oldsmobile omega
+33.0,4,91.0,53,1795,17.5,75,3,honda civic cvcc
+23.0,4,140.0,83,2639,17.0,75,1,ford pinto
+21.0,4,120.0,87,2979,19.5,72,2,peugeot 504 (sw)
+23.0,6,198.0,95,2904,16.0,73,1,plymouth duster
+25.0,4,113.0,95,2228,14.0,71,3,toyota corona
+23.8,4,151.0,85,2855,17.6,78,1,oldsmobile starfire sx
+34.4,4,98.0,65,2045,16.2,81,1,ford escort 4w
+24.5,4,98.0,60,2164,22.1,76,1,chevrolet woody
+13.0,8,307.0,130,4098,14.0,72,1,chevrolet chevelle concours (sw)
+34.7,4,105.0,63,2215,14.9,81,1,plymouth horizon 4
+14.0,8,304.0,150,4257,15.5,74,1,amc matador (sw)
+15.0,8,429.0,198,4341,10.0,70,1,ford galaxie 500
+18.0,6,258.0,110,2962,13.5,71,1,amc hornet sportabout (sw)
+25.0,6,181.0,110,2945,16.4,82,1,buick century limited
+19.9,8,260.0,110,3365,15.5,78,1,oldsmobile cutlass salon brougham
+17.5,6,250.0,110,3520,16.4,77,1,chevrolet concours
+28.0,4,112.0,88,2605,19.6,82,1,chevrolet cavalier
+29.0,4,90.0,70,1937,14.0,75,2,volkswagen rabbit
+17.0,8,305.0,130,3840,15.4,79,1,chevrolet caprice classic
